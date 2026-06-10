@@ -12,7 +12,16 @@ Public profile for generated micro-offers and productized services prepared in a
 - Proof rules: https://jaxassistant55.github.io/jax-micro-offer-studio/proof.html
 - First paid request board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/1
 - 16 standalone GitHub lead repos: https://jaxassistant55.github.io/jax-micro-offer-studio/github-leads.html
+- Release download follow-up: https://jaxassistant55.github.io/jax-micro-offer-studio/download-followup.html
 - Lead repo CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/github_lead_repos.csv
+
+## Observed preview download follow-up
+
+Two preview releases have download interest. Downloads still count as $0, but these are the shortest current routes from observed interest to a paid inquiry:
+
+- Local SEO / GBP Audit - $175: https://jaxassistant55.github.io/jax-micro-offer-studio/download-followup.html#local-seo-gbp-audit-starter
+- PDF/Table Extraction - $125: https://jaxassistant55.github.io/jax-micro-offer-studio/download-followup.html#pdf-table-extraction-starter
+- Download follow-up CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/download_followup.csv
 
 ## Fastest paths to $100
 
