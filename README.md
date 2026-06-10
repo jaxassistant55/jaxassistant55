@@ -10,6 +10,8 @@ Public profile for generated micro-offers and productized services prepared in a
 - Fulfillment ledger: https://jaxassistant55.github.io/jax-micro-offer-studio/fulfillment.html
 - Proof rules: https://jaxassistant55.github.io/jax-micro-offer-studio/proof.html
 - First paid request board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/1
+- 16 standalone GitHub lead repos: https://jaxassistant55.github.io/jax-micro-offer-studio/github-leads.html
+- Lead repo CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/github_lead_repos.csv
 
 ## Fastest paths to $100
 
@@ -18,6 +20,14 @@ Public profile for generated micro-offers and productized services prepared in a
 - Website Audit Microservice - $150 for one accepted public-site audit.
 - AI Workflow Tracker Sprint - $150 for one CSV-backed tracker and static dashboard.
 - Static Demo Site Customization - $200 for one local-service starter site.
+
+## Direct order boards
+
+- Automation Blueprint: https://github.com/jaxassistant55/automation-blueprint-starter/issues/1
+- Data Cleanup Sprint: https://github.com/jaxassistant55/data-cleanup-sprint-starter/issues/1
+- Website Audit Microservice: https://github.com/jaxassistant55/website-audit-microservice-starter/issues/1
+- Local SEO / GBP Audit: https://github.com/jaxassistant55/local-seo-gbp-audit-starter/issues/1
+- PDF/Table Extraction: https://github.com/jaxassistant55/pdf-table-extraction-starter/issues/1
 
 ## Boundary
 
