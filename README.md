@@ -5,6 +5,7 @@ Public profile for generated micro-offers and productized services prepared in a
 ## Available now
 
 - Live offer site: https://jaxassistant55.github.io/jax-micro-offer-studio/
+- Ready-to-buy routes: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy.html
 - Pricing: https://jaxassistant55.github.io/jax-micro-offer-studio/pricing.html
 - Case studies and previews: https://jaxassistant55.github.io/jax-micro-offer-studio/case-studies.html
 - Fulfillment ledger: https://jaxassistant55.github.io/jax-micro-offer-studio/fulfillment.html
@@ -15,11 +16,12 @@ Public profile for generated micro-offers and productized services prepared in a
 
 ## Fastest paths to $100
 
-- Automation Blueprint - $100 for one accepted workflow blueprint.
-- Data Cleanup Sprint - $125 for one authorized CSV/spreadsheet cleanup.
-- Website Audit Microservice - $150 for one accepted public-site audit.
-- AI Workflow Tracker Sprint - $150 for one CSV-backed tracker and static dashboard.
-- Static Demo Site Customization - $200 for one local-service starter site.
+- Static Demo Site Customization - $200 for one local-service starter site: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-static-demo-site-customization.html
+- Local SEO / GBP Audit - $175 for one public local-profile audit: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-local-seo-gbp-audit.html
+- Website Audit Microservice - $150 for one accepted public-site audit: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-website-audit-microservice.html
+- AI Workflow Tracker Sprint - $150 for one CSV-backed tracker and static dashboard: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-ai-workflow-tracker-sprint.html
+- Data Cleanup Sprint - $125 for one authorized CSV/spreadsheet cleanup: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-data-cleanup-sprint.html
+- Automation Blueprint - $100 for one accepted workflow blueprint: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-automation-blueprint.html
 
 ## Direct order boards
 
