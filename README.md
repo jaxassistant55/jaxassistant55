@@ -6,6 +6,7 @@ Public profile for generated micro-offers and productized services prepared in a
 
 - Live offer site: https://jaxassistant55.github.io/jax-micro-offer-studio/
 - Ready-to-buy routes: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy.html
+- Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Pricing: https://jaxassistant55.github.io/jax-micro-offer-studio/pricing.html
 - Case studies and previews: https://jaxassistant55.github.io/jax-micro-offer-studio/case-studies.html
 - Fulfillment ledger: https://jaxassistant55.github.io/jax-micro-offer-studio/fulfillment.html
@@ -45,6 +46,8 @@ Two preview releases have download interest. Downloads still count as $0, but th
 
 ## Boundary
 
-Confirmed earned money is $0 until an external buyer, payment, refund, credit, or payout proof exists. Public pages, issues, releases, and prepared bundles do not count as earnings by themselves.
+Payment activation generates a buyer payment message from a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request URL. It does not process payment.
+
+Confirmed earned money is $0 until an external buyer, payment, refund, credit, or payout proof exists. Public pages, issues, releases, payment-message drafts, and prepared bundles do not count as earnings by themselves.
 
 Do not post credentials, payment cards, tax identifiers, private regulated information, or files you are not authorized to share.
