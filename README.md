@@ -7,6 +7,7 @@ Public profile for generated micro-offers and productized services prepared in a
 Fastest route chooser:
 
 - Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
+- All 42 paid catalog rows now have structured ready-to-pay intake forms through the catalog.
 - Catalog release/assets: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
 - First $100 Product Bundle: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-product-bundle.html
 - Bundle ready-to-buy form: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/new?template=first-100-product-bundle.yml
@@ -16,6 +17,8 @@ Fastest route chooser:
 - Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
 
 Use the catalog first when the buyer is choosing among services, products, standalone repos, or the exact $100 starter. It points to the best buyer action, structured form, order board, payment handoff, and proof rule for each route.
+
+Current intake coverage: 42 paid catalog rows, 42 structured ready-to-pay forms, 34 routes where one sale can reach $100 before fees/refunds.
 
 | Route | Price | Start | Payment handoff |
 |---|---:|---|---|
@@ -50,6 +53,8 @@ Use the route page to confirm fixed scope first. After scope is accepted, use th
 The two preview-download routes are the warmest current paths. Each one now includes a ready-to-pay issue link, sample proof, buyer acceptance checklist, payment activation route, proof-folder guidance, and a strict $0-until-external-payment boundary.
 
 All 16 standalone lead repos also now include repo-specific structured paid-inquiry forms linked from their README, ORDER, release notes, and order-board issue. These forms are the fastest public-safe intake route when a real buyer is ready to describe scope before external payment.
+
+The paid offer action catalog also maps the remaining central product/setup rows to product-specific ready-to-buy forms, so every paid catalog row has a structured intake route.
 
 - Sample proof README: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack/README.md
 - Payment activation: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
