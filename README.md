@@ -4,6 +4,15 @@ Public profile for generated micro-offers and productized services prepared in a
 
 ## Start here for a $100+ paid order
 
+Fastest route chooser:
+
+- Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
+- Catalog release/assets: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
+- Catalog CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.csv
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+
+Use the catalog first when the buyer is choosing among services, products, standalone repos, or the exact $100 starter. It points to the best buyer action, structured form, order board, payment handoff, and proof rule for each route.
+
 | Route | Price | Start | Payment handoff |
 |---|---:|---|---|
 | First $100 Fast Start | $100 | https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
@@ -18,6 +27,8 @@ Use the route page to confirm fixed scope first. After scope is accepted, use th
 
 ## Current live signals
 
+- Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
+- Paid catalog release: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
 - Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
 - First $100 Fast Start order board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/24
 - First $100 sample pack: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack.zip
@@ -38,6 +49,8 @@ All 16 standalone lead repos also now include repo-specific structured paid-inqu
 ## Available now
 
 - Live offer site: https://jaxassistant55.github.io/jax-micro-offer-studio/
+- Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
+- Paid catalog release: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
 - First $100 Fast Start: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html
 - First $100 sample pack: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack.zip
 - Ready-to-buy routes: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy.html
