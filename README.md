@@ -6,6 +6,7 @@ Public profile for generated micro-offers and productized services prepared in a
 
 | Route | Price | Start | Payment handoff |
 |---|---:|---|---|
+| First $100 Fast Start | $100 | https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
 | Static Demo Site Customization | $200 | https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-static-demo-site-customization.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
 | Local SEO / GBP Audit | $175 | https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
 | Website Audit Microservice | $150 | https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-website-audit-microservice.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
@@ -18,6 +19,7 @@ Use the route page to confirm fixed scope first. After scope is accepted, use th
 ## Current live signals
 
 - Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+- First $100 Fast Start order board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/24
 - Local SEO preview download route: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html
 - PDF/Table preview download route: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html
 - Confirmed earned money remains $0 until external payment is posted, released, payable, or cleared.
@@ -25,6 +27,7 @@ Use the route page to confirm fixed scope first. After scope is accepted, use th
 ## Available now
 
 - Live offer site: https://jaxassistant55.github.io/jax-micro-offer-studio/
+- First $100 Fast Start: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html
 - Ready-to-buy routes: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy.html
 - Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Pricing: https://jaxassistant55.github.io/jax-micro-offer-studio/pricing.html
@@ -49,6 +52,7 @@ Two preview releases have download interest. Downloads still count as $0, but th
 
 ## Fastest paths to $100
 
+- First $100 Fast Start - exact $100 starter scopes: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html
 - Static Demo Site Customization - $200 for one local-service starter site: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-static-demo-site-customization.html
 - Local SEO / GBP Audit - $175 for one public local-profile audit: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-local-seo-gbp-audit.html
 - Website Audit Microservice - $150 for one accepted public-site audit: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-website-audit-microservice.html
@@ -58,6 +62,7 @@ Two preview releases have download interest. Downloads still count as $0, but th
 
 ## Direct order boards
 
+- First $100 Fast Start: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/24
 - Automation Blueprint: https://github.com/jaxassistant55/automation-blueprint-starter/issues/1
 - Data Cleanup Sprint: https://github.com/jaxassistant55/data-cleanup-sprint-starter/issues/1
 - Website Audit Microservice: https://github.com/jaxassistant55/website-audit-microservice-starter/issues/1
