@@ -20,6 +20,7 @@ Use the route page to confirm fixed scope first. After scope is accepted, use th
 
 - Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
 - First $100 Fast Start order board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/24
+- First $100 sample pack: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack.zip
 - Local SEO preview download route: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html
 - PDF/Table preview download route: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html
 - Confirmed earned money remains $0 until external payment is posted, released, payable, or cleared.
@@ -28,13 +29,14 @@ Use the route page to confirm fixed scope first. After scope is accepted, use th
 
 - Live offer site: https://jaxassistant55.github.io/jax-micro-offer-studio/
 - First $100 Fast Start: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html
+- First $100 sample pack: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack.zip
 - Ready-to-buy routes: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy.html
 - Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Pricing: https://jaxassistant55.github.io/jax-micro-offer-studio/pricing.html
 - Case studies and previews: https://jaxassistant55.github.io/jax-micro-offer-studio/case-studies.html
 - Fulfillment ledger: https://jaxassistant55.github.io/jax-micro-offer-studio/fulfillment.html
 - Proof rules: https://jaxassistant55.github.io/jax-micro-offer-studio/proof.html
-- First paid request board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/1
+- First $100 Fast Start board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/24
 - 16 standalone GitHub lead repos: https://jaxassistant55.github.io/jax-micro-offer-studio/github-leads.html
 - Release download follow-up: https://jaxassistant55.github.io/jax-micro-offer-studio/download-followup.html
 - Local SEO hot close room: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html
