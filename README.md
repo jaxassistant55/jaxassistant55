@@ -23,9 +23,13 @@ Use the route page to confirm fixed scope first. After scope is accepted, use th
 - First $100 sample pack: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack.zip
 - Local SEO preview download route: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html
 - PDF/Table preview download route: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html
+- Structured ready-to-pay forms for all 16 standalone repos: https://jaxassistant55.github.io/jax-micro-offer-studio/structured-ready-forms.html
+- Structured forms CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/structured_ready_forms.csv
 - Confirmed earned money remains $0 until external payment is posted, released, payable, or cleared.
 
 The two preview-download routes are the warmest current paths. Each one now includes a ready-to-pay issue link, sample proof, buyer acceptance checklist, payment activation route, proof-folder guidance, and a strict $0-until-external-payment boundary.
+
+All 16 standalone lead repos also now include repo-specific structured paid-inquiry forms linked from their README, ORDER, release notes, and order-board issue. These forms are the fastest public-safe intake route when a real buyer is ready to describe scope before external payment.
 
 - Sample proof README: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack/README.md
 - Payment activation: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
@@ -44,6 +48,7 @@ The two preview-download routes are the warmest current paths. Each one now incl
 - Proof rules: https://jaxassistant55.github.io/jax-micro-offer-studio/proof.html
 - First $100 Fast Start board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/24
 - 16 standalone GitHub lead repos: https://jaxassistant55.github.io/jax-micro-offer-studio/github-leads.html
+- Structured ready-to-pay forms: https://jaxassistant55.github.io/jax-micro-offer-studio/structured-ready-forms.html
 - Release download follow-up: https://jaxassistant55.github.io/jax-micro-offer-studio/download-followup.html
 - Local SEO hot close room: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html
 - PDF/Table hot close room: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html
