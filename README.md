@@ -25,6 +25,12 @@ Use the route page to confirm fixed scope first. After scope is accepted, use th
 - PDF/Table preview download route: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html
 - Confirmed earned money remains $0 until external payment is posted, released, payable, or cleared.
 
+The two preview-download routes are the warmest current paths. Each one now includes a ready-to-pay issue link, sample proof, buyer acceptance checklist, payment activation route, proof-folder guidance, and a strict $0-until-external-payment boundary.
+
+- Sample proof README: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack/README.md
+- Payment activation: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
+- Download follow-up: https://jaxassistant55.github.io/jax-micro-offer-studio/download-followup.html
+
 ## Available now
 
 - Live offer site: https://jaxassistant55.github.io/jax-micro-offer-studio/
