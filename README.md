@@ -9,6 +9,7 @@ Fastest route chooser:
 - Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
 - Catalog release/assets: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
 - First $100 Product Bundle: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-product-bundle.html
+- Bundle ready-to-buy form: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/new?template=first-100-product-bundle.yml
 - Bundle marketplace release packet: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/first-100-product-bundle-marketplace-v1
 - Product bundle order board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/25
 - Catalog CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.csv
@@ -34,6 +35,7 @@ Use the route page to confirm fixed scope first. After scope is accepted, use th
 - Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
 - Paid catalog release: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
 - First $100 Product Bundle: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-product-bundle.html
+- Bundle ready-to-buy form: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/new?template=first-100-product-bundle.yml
 - Bundle marketplace release packet: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/first-100-product-bundle-marketplace-v1
 - Product bundle order board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/25
 - Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
