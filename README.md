@@ -8,6 +8,8 @@ Fastest route chooser:
 
 - Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
 - Catalog release/assets: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
+- First $100 Product Bundle: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-product-bundle.html
+- Product bundle order board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/25
 - Catalog CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.csv
 - Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
 
@@ -15,6 +17,7 @@ Use the catalog first when the buyer is choosing among services, products, stand
 
 | Route | Price | Start | Payment handoff |
 |---|---:|---|---|
+| First $100 Product Bundle | $100 | https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-product-bundle.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
 | First $100 Fast Start | $100 | https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
 | Static Demo Site Customization | $200 | https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-static-demo-site-customization.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
 | Local SEO / GBP Audit | $175 | https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
@@ -29,6 +32,8 @@ Use the route page to confirm fixed scope first. After scope is accepted, use th
 
 - Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
 - Paid catalog release: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
+- First $100 Product Bundle: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-product-bundle.html
+- Product bundle order board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/25
 - Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
 - First $100 Fast Start order board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/24
 - First $100 sample pack: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack.zip
@@ -51,6 +56,7 @@ All 16 standalone lead repos also now include repo-specific structured paid-inqu
 - Live offer site: https://jaxassistant55.github.io/jax-micro-offer-studio/
 - Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
 - Paid catalog release: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
+- First $100 Product Bundle: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-product-bundle.html
 - First $100 Fast Start: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html
 - First $100 sample pack: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack.zip
 - Ready-to-buy routes: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy.html
@@ -78,6 +84,7 @@ Two preview releases have download interest. Downloads still count as $0, but th
 
 ## Fastest paths to $100
 
+- First $100 Product Bundle - $100 private product-bundle transfer: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-product-bundle.html
 - First $100 Fast Start - exact $100 starter scopes: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html
 - Static Demo Site Customization - $200 for one local-service starter site: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-static-demo-site-customization.html
 - Local SEO / GBP Audit - $175 for one public local-profile audit: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-local-seo-gbp-audit.html
@@ -89,6 +96,7 @@ Two preview releases have download interest. Downloads still count as $0, but th
 ## Direct order boards
 
 - First $100 Fast Start: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/24
+- First $100 Product Bundle: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/25
 - Automation Blueprint: https://github.com/jaxassistant55/automation-blueprint-starter/issues/1
 - Data Cleanup Sprint: https://github.com/jaxassistant55/data-cleanup-sprint-starter/issues/1
 - Website Audit Microservice: https://github.com/jaxassistant55/website-audit-microservice-starter/issues/1
