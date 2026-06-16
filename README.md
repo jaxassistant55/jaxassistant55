@@ -7,6 +7,8 @@ Public profile for generated micro-offers and productized services prepared in a
 Fastest route chooser:
 
 - Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
+- One sale to $100 close page: https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-to-100.html
+- One sale to $100 CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-to-100.csv
 - All 42 paid catalog rows now have structured ready-to-pay intake forms through the catalog.
 - Catalog release/assets: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
 - Standalone payment handoff after exact acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html
@@ -24,6 +26,7 @@ Current intake coverage: 42 paid catalog rows, 42 structured ready-to-pay forms,
 
 | Route | Price | Start | Payment handoff |
 |---|---:|---|---|
+| One-sale-to-$100 route chooser | $100+ mostly | https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-to-100.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
 | First $100 Product Bundle | $100 | https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-product-bundle.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
 | First $100 Fast Start | $100 | https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
 | Static Demo Site Customization | $200 | https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-static-demo-site-customization.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
@@ -39,6 +42,7 @@ Use the route page to confirm fixed scope first. After scope is accepted, use th
 ## Current live signals
 
 - Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
+- One sale to $100 close page: https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-to-100.html
 - Paid catalog release: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
 - Standalone payment handoff after exact acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html
 - Standalone payment handoff CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone_payment_handoff.csv
@@ -69,6 +73,7 @@ The paid offer action catalog also maps the remaining central product/setup rows
 
 - Live offer site: https://jaxassistant55.github.io/jax-micro-offer-studio/
 - Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
+- One sale to $100 close page: https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-to-100.html
 - Paid catalog release: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
 - First $100 Product Bundle: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-product-bundle.html
 - Bundle marketplace release packet: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/first-100-product-bundle-marketplace-v1
