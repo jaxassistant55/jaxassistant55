@@ -9,6 +9,8 @@ Fastest route chooser:
 - Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
 - All 42 paid catalog rows now have structured ready-to-pay intake forms through the catalog.
 - Catalog release/assets: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
+- Standalone payment handoff after exact acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html
+- Standalone payment handoff CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone_payment_handoff.csv
 - First $100 Product Bundle: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-product-bundle.html
 - Bundle ready-to-buy form: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/new?template=first-100-product-bundle.yml
 - Bundle marketplace release packet: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/first-100-product-bundle-marketplace-v1
@@ -25,6 +27,7 @@ Current intake coverage: 42 paid catalog rows, 42 structured ready-to-pay forms,
 | First $100 Product Bundle | $100 | https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-product-bundle.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
 | First $100 Fast Start | $100 | https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
 | Static Demo Site Customization | $200 | https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-static-demo-site-customization.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
+| Standalone exact-acceptance routes | $100+ mostly | https://jaxassistant55.github.io/jax-micro-offer-studio/github-leads.html | https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html |
 | Local SEO / GBP Audit | $175 | https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
 | Website Audit Microservice | $150 | https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-website-audit-microservice.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
 | PDF/Table Extraction | $125 | https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-pdf-table-extraction-starter.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
@@ -37,6 +40,8 @@ Use the route page to confirm fixed scope first. After scope is accepted, use th
 
 - Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
 - Paid catalog release: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
+- Standalone payment handoff after exact acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html
+- Standalone payment handoff CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone_payment_handoff.csv
 - First $100 Product Bundle: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-product-bundle.html
 - Bundle ready-to-buy form: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/new?template=first-100-product-bundle.yml
 - Bundle marketplace release packet: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/first-100-product-bundle-marketplace-v1
@@ -71,6 +76,7 @@ The paid offer action catalog also maps the remaining central product/setup rows
 - First $100 sample pack: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack.zip
 - Ready-to-buy routes: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy.html
 - Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
+- Standalone payment handoff after exact acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html
 - Pricing: https://jaxassistant55.github.io/jax-micro-offer-studio/pricing.html
 - Case studies and previews: https://jaxassistant55.github.io/jax-micro-offer-studio/case-studies.html
 - Fulfillment ledger: https://jaxassistant55.github.io/jax-micro-offer-studio/fulfillment.html
