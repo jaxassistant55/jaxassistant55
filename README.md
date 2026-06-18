@@ -1,5 +1,24 @@
 # Micro Offer Studio
 
+<!-- after-download-close-topboard:start -->
+## Current closest paid paths from observed download interest
+
+These two routes are the current warmest owned-public-surface paths because their preview releases have observed downloads. Downloads still count as $0; the only claimable money is external buyer acceptance plus posted, released, payable, or cleared funds.
+
+| Route | Price | Why this is first | Start here | Payment activation |
+|---|---:|---|---|---|
+| PDF/Table Extraction after-download close | $125 | Preview release downloads observed: 3; route is built for a returning downloader who wants the delivered extraction starter customized. | https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-download-intent-close.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
+| Local SEO / GBP Audit after-download close | $175 | Preview release downloads observed: 2; route is built for a returning downloader who wants a public GBP/local SEO audit delivered. | https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-download-intent-close.html | https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation |
+
+Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+
+Preview releases: https://github.com/jaxassistant55/pdf-table-extraction-starter/releases/tag/preview-v1 and https://github.com/jaxassistant55/local-seo-gbp-audit-starter/releases/tag/preview-v1
+
+Finish-and-claim manual for the operator: file:///Users/jax/autonomous_earning_run_2026-06-09/finish_and_claim_my_tasks.html
+
+Money rule: GitHub profile views, gist views, issue comments, page visits, release downloads, generated payment text, and checkout setup do not count as earnings. Count $0 until external buyer/payment/delivery proof exists.
+<!-- after-download-close-topboard:end -->
+
 Public profile for generated micro-offers and productized services prepared in an autonomous earning run.
 
 ## Start here for a $100+ paid order
