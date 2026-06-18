@@ -1,5 +1,27 @@
 # Micro Offer Studio
 
+<!-- fastest-100-topboard:start -->
+## Fastest $100 Start
+
+Use this first when a buyer wants the shortest current route to one verified $100+ order:
+
+- Fastest $100 Start: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest-100-start.html
+- Fastest route CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest_100_start.csv
+- Payment activation after accepted scope: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+
+| Route | Price | Why this is first | Start |
+|---|---:|---|---|
+| PDF/Table Extraction Starter | $125 | Observed preview-download interest plus one close-ready packet download. | https://jaxassistant55.github.io/jax-micro-offer-studio/pdf-table-download-intent-close.html |
+| Local SEO / GBP Audit Starter | $175 | Highest single-order price among observed download-interest paths. | https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-download-intent-close.html |
+| First $100 Fast Start | $100 | Exact fixed-scope $100 starter route. | https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html |
+| First $100 Product Bundle | $100 | Exact $100 private product-bundle transfer route. | https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-product-bundle.html |
+| Data Cleanup Sprint | $125 | One authorized CSV/spreadsheet cleanup can clear $100 before fees/refunds. | https://jaxassistant55.github.io/jax-micro-offer-studio/data-cleanup-sprint.html |
+| Automation Blueprint | $100 | One accepted workflow blueprint reaches $100 before fees/refunds. | https://jaxassistant55.github.io/jax-micro-offer-studio/automation-blueprint.html |
+
+Money rule: profile views, gist views, GitHub funding links, issue templates, page visits, release downloads, generated payment text, and checkout setup do not count as earnings. Count $0 until a real buyer accepts scope, pays through a seller-owned external route, receives delivery, and funds are posted, released, payable, or cleared.
+<!-- fastest-100-topboard:end -->
+
 <!-- after-download-close-topboard:start -->
 ## Current closest paid paths from observed download interest
 
@@ -14,8 +36,6 @@ Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-mon
 
 Preview releases: https://github.com/jaxassistant55/pdf-table-extraction-starter/releases/tag/preview-v1 and https://github.com/jaxassistant55/local-seo-gbp-audit-starter/releases/tag/preview-v1
 
-Finish-and-claim manual for the operator: file:///Users/jax/autonomous_earning_run_2026-06-09/finish_and_claim_my_tasks.html
-
 Money rule: GitHub profile views, gist views, issue comments, page visits, release downloads, generated payment text, and checkout setup do not count as earnings. Count $0 until external buyer/payment/delivery proof exists.
 <!-- after-download-close-topboard:end -->
 
@@ -25,6 +45,8 @@ Public profile for generated micro-offers and productized services prepared in a
 
 Fastest route chooser:
 
+- Fastest $100 Start: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest-100-start.html
+- Fastest $100 CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest_100_start.csv
 - Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
 - One sale to $100 close page: https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-to-100.html
 - One sale to $100 CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-to-100.csv
@@ -91,6 +113,8 @@ The paid offer action catalog also maps the remaining central product/setup rows
 ## Available now
 
 - Live offer site: https://jaxassistant55.github.io/jax-micro-offer-studio/
+- Fastest $100 Start: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest-100-start.html
+- Fastest $100 CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest_100_start.csv
 - Paid offer action catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
 - One sale to $100 close page: https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-to-100.html
 - Paid catalog release: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
